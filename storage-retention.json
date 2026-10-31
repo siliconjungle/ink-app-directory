@@ -1,0 +1,7 @@
+{
+  "keep": {
+    "README.md": "Public links to independent Ink app repositories.",
+    "storage-retention.json": "Retention policy."
+  },
+  "safe_to_remove": {}
+}
