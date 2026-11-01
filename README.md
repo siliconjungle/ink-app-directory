@@ -13,6 +13,7 @@ Apps for [Ink OS](https://github.com/siliconjungle/ink-os-platform). Each app ha
 - [Chat Room](https://github.com/siliconjungle/ink-app-chat-room) — Chat with ordered messages, immediate pending sends, paginated history and retry-safe delivery.
 - [Color Picker](https://github.com/siliconjungle/ink-app-color-picker) — Sample screen colours, copy HEX/RGB/HSL values and keep shared swatches.
 - [Curves](https://github.com/siliconjungle/ink-app-curves) — Create named game-balancing curves with draggable control points, interpolation, numeric previews and JSON exports.
+- [Depth Light](https://github.com/siliconjungle/ink-app-depth-light) — Relight an image or transparent cutout using a matching depth map, a draggable light and full-size PNG export.
 - [Flip & Rotate](https://github.com/siliconjungle/ink-app-flip-rotate) — Rotate and flip images with instant previews, undo and transparent PNG copies saved in Ink OS.
 - [Image Converter](https://github.com/siliconjungle/ink-app-image-converter) — Convert images to PNG, JPEG or WebP with resizing, quality controls, batch processing and shared history.
 - [Ink Tables](https://github.com/siliconjungle/ink-app-tables) — Edit typed, queryable tables for game balancing and configuration, with stable row/column keys and CSV/TSV import.
